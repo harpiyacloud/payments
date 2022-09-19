@@ -1,0 +1,3 @@
+# harpiya -- https://github.com/harpiyacloud/harpiya is installed via 'bench init'
+stripe~=2.56.0
+braintree~=4.8.0
